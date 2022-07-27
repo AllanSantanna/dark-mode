@@ -1,0 +1,32 @@
+body {
+  margin-top: 0;
+  padding: 2rem;
+  background-color: white;
+  color: black;
+  font: 2rem sans-serif;
+  transition: color 0.8s linear;
+}
+
+.dark-mode {
+  background-color: black;
+  color: white;
+  transition: color 0.8 linear;
+}
+
+header ul li {
+
+  list-style: none;
+  display: inline-block;
+  justify-items: center;
+  margin-right: 5rem;
+
+}
+
+button {
+  display: inline-flex;
+  font-size: 2rem;
+  border-radius: 10%;
+  border: none;
+
+}
+
